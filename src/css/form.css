@@ -1,0 +1,36 @@
+.feedback-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 408px;
+    max-height: 296px;
+    gap: 10px;
+}
+
+button {
+    width: 95px;
+    height: 40px;
+    position: absolute;
+    top: 316px;
+    left: 459px;
+    border-radius: 10px;
+    background-color: #4E75FF;
+    color:#FFFFFF;
+}
+
+textarea {
+    width: 360px;
+    height: 80px;
+    border-radius: 5px;
+}
+
+input {
+    width: 360px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.container-form {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
